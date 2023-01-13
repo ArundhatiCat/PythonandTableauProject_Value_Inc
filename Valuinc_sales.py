@@ -49,9 +49,6 @@ data ['Markup']= data['ProfitPerTransaction']/data['CostPerTransaction']
 roundmarkup= round(data['Markup'], 2)
 data['Markup']= roundmarkup
 
-#combining data fields
-my_name = 'Aru'+'Path'
-my_date = 'Day'+'-'+'Month'+'-'+'Year'
 
 #checking columns datatype
 print(data['Day'].dtype)
