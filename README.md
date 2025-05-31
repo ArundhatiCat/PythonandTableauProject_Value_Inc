@@ -1,4 +1,3 @@
-Here’s a polished and structured `README.md` for your **Sales\_Value\_Inc** project, incorporating your Tableau dashboard link:
 
 ---
 
@@ -72,4 +71,3 @@ This project analyzes the sales performance of **Sales Value Inc**, focusing on 
 
 ---
 
-Let me know if you'd like to add an embedded Tableau iframe or enrich it with data context for portfolio publication!
