@@ -1,3 +1,5 @@
-Sales_Value_Inc
+💼 Sales Value Inc – Sales Performance Analysis
+🧠 Project Overview
+This project analyzes the sales performance of Sales Value Inc, focusing on identifying key revenue drivers, regional trends, and product category insights. The goal was to help stakeholders understand where to invest and optimize based on sales data, using advanced analytics and visualization tools.
 
-Link to Tableau Dashboard: https://public.tableau.com/app/profile/arundhati.pathrikar/viz/SalesforValueInc_16736048439600/Dashboard1
+🔗 View the Tableau Dashboard
